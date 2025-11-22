@@ -1,0 +1,1 @@
+# What if the model become to complex due to not appliying the PCA to the data and it learn through that on the higher dimension dataset?.
